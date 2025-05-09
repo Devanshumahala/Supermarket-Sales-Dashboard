@@ -1,0 +1,18 @@
+🛒 Supermarket Sales Dashboard (Key Business Insights (2025)):By Devanshu Mahala
+
+1. 🏙️ Delhi led total sales among all cities, especially dominating in Food & Beverages and Health & Beauty categories.
+2. 🚹 Male customers slightly outspent females, indicating stronger purchasing trends.
+3. ⏰ Sales volume peaks between 1 PM to 6 PM — critical hours for promotions & optimal staff scheduling.
+4. 💳 Credit card is the most used payment method — potential for loyalty or cashback campaigns.
+5. 🌟 Sports & Travel products received the highest customer ratings, showing strong satisfaction.
+6. 🏢 Branch A generated the most gross income — suggests better performance or premium location.
+7. 📈 Monthly sales show consistent growth from Jan to Mar 2025 — possible seasonal or marketing impact.
+8. 🔥 Top product-city pair: Health & Beauty in Delhi — great opportunity for targeted marketing.
+9. 👥 "Normal" customers contributed nearly as much as "Members" — consider converting them via offers.
+10. 📊 Product diversification is strong, but top 3 categories bring ~60% revenue — suggests focus zones.
+
+💡 Business Suggestions:
+- Boost promotions in Delhi with offers on best-selling categories.
+- Focus staffing and discounts between 12 PM – 6 PM.
+- Launch loyalty programs around credit card users.
+- Invest more in Branch A and replicate its model elsewhere.
